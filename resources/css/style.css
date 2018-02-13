@@ -1,0 +1,53 @@
+.header {
+    background-image: url(/Users/jesse/Desktop/projects/BroadwayDesign/resources/images/the-flatiron-building.png);
+    text-align: center;
+    color: white;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.nav {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.body {
+  text-align: center;
+}
+
+.designedinnewyork {
+  background-image: url(/Users/jesse/Desktop/projects/BroadwayDesign/resources/images/the-flatiron-building.png);
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  font-size: 23px;
+}
+
+.body-item p {
+  font-family: Helvetica
+  font-size: 14px;
+}
+
+.footer {
+    background-color: dimgray;
+    font-size: 11px;
+    color: white;
+}
