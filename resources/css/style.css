@@ -1,5 +1,5 @@
 .header {
-    background-image: url(/Users/jesse/Desktop/projects/BroadwayDesign/resources/images/the-flatiron-building.png);
+    background-image: url(https://raw.githubusercontent.com/jessejameswoods/broadwaydesign/master/resources/images/the-flatiron-building.png);
     text-align: center;
     color: white;
 }
@@ -34,7 +34,7 @@ h3 {
 }
 
 .designedinnewyork {
-  background-image: url(/Users/jesse/Desktop/projects/BroadwayDesign/resources/images/the-flatiron-building.png);
+  background-image: url(https://raw.githubusercontent.com/jessejameswoods/broadwaydesign/master/resources/images/the-flatiron-building.png);
   text-align: center;
   font-weight: bold;
   color: white;
